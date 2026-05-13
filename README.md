@@ -68,4 +68,4 @@
 
 ---
 
-![Snake animation](https://github.com/Wasimsaher/wasimsaher/blob/main/snake.yml)
+![snake gif](https://raw.githubusercontent.com/Wasimsaher/wasimsaher/output/github-contribution-grid-snake-dark.svg)
