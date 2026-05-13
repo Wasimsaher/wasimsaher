@@ -27,7 +27,7 @@
 ## 🧰 Tech Stack
 
 <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,php,laravel,mysql,html,css,js,git,vscode,&perline=6" style="height:105px;"/> &nbsp;
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,php,laravel,sql,html,css,js,git,vscode,&perline=6" style="height:105px;"/> &nbsp;
 </p> 
  
  ---
@@ -36,14 +36,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=wasimsaher&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
   <p align="center">
-    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=hamzawaleednasr&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=wasimsaher&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
 ---
@@ -68,4 +68,4 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/Wasimsaher/wasimsaher/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Wasimsaher/wasimsaher/blob/output/github-contribution-grid-snake-dark.svg)
