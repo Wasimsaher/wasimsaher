@@ -36,14 +36,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Wasimsaher&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=waseemsaher&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
   <p align="center">
-    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Wasimsaher&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=waseemsaher&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
 ---
@@ -60,10 +60,11 @@
   <a href="https://www.linkedin.com/in/waseemsaher/">
     <img src="https://img.shields.io/badge/LinkedIn-waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto: waseemsaher99@gmail.com">
+  <a href="mailto:waseemsaher99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wasimsaher/wasimsaher/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/waseemsaher/waseemsaher/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
