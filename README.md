@@ -64,4 +64,6 @@
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wasimsaher/wasimsaher/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
